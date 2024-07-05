@@ -1,8 +1,4 @@
-# React + Vite
+# Apple IPhone 15 website clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I have used React for frontend of this project, tailwind css for styling, GSAP for animations ,ThreeJS for 3d models for this website
+I have tried to make this project  look as close as possible to original apple website 
